@@ -174,3 +174,4 @@ def delite():
 		
 
 delite()
+#lresbool
